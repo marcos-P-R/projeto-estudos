@@ -1,69 +1,69 @@
 # Guia de Estudos para o Ano de 2022
-- [] Salesforce
-  - [] B2C Commerce Cloud
-    - [] Custon type Page Design
-    - [] Cartridges
-    - [] Controllers
-- [] Node 
-    - [] Socket.io
-    - [] TDD
-    - [] Swagger
-    - [] BD com Node
-    - [] Api rest express
-    - [] TypeScript
-        - [] TDD
-        - [] Api NestJs
-- [] Oracle Cloud
-    - [] IAM
-      - [] Compartments
-    - [] Networking
-      - [] VCN
-      - [] Load Balance 
-    - [] Compute
-      - [] Scaling
-    - [] Storage
-      - [] Block Storage
-      - [] Object Storage
-    - [] DataBase
-      - [] Autonomos Database - ADW
-      - [] DBCS
-      - [] MySQL Database Service
-      - [] NoSql
-    - [] TerraForm
-    - [] Security
-    - [] Resource Manager
-    - [] OCIR
-    - [] Functions
-    - [] API Gateway
-    - [] Kubernetes
-    - [] Analytics & Ai
-- [] Docker
-    - [] docker-compose
-    - [] Proxy reverso nginx
-- [] Fundamento de Arquitetura de Software
-    - [] Sistemas Monolíticos
-    - [] Sistemas de Microsserviços
-        - [] Api Gateway
-        - [] Comunicação entre Microserviços
-- [] Comunicação
-    - [] Rest
-        - [] Nivel de Maturidade
-    - [] gRPC
-    - [] GraphQl
-- [] Golang
-    - [] Relembrar pontos básicos
-        - [] Basico da linguagem
-        - [] Go para web
-        - [] Estruturas
-        - [] Interfaces
-        - [] slices
-    - [] Avançando
-        - [] Goroutines
-        - [] Waiting groups
-        - [] Mutex
-        - [] Race Conditions
-- [] Kubernets
-- [] Terraform
-- [] Ansible
-- [] React
-- [] WebPack
+- [ ] Salesforce
+  - [ ] B2C Commerce Cloud
+    - [ ] Custon type Page Design
+    - [ ] Cartridges
+    - [ ] Controllers
+- [ ] Node 
+    - [ ] Socket.io
+    - [ ] TDD
+    - [ ] Swagger
+    - [ ] BD com Node
+    - [ ] Api rest express
+    - [ ] TypeScript
+        - [ ] TDD
+        - [ ] Api NestJs
+- [ ] Oracle Cloud
+    - [ ] IAM
+      - [ ] Compartments
+    - [ ] Networking
+      - [ ] VCN
+      - [ ] Load Balance 
+    - [ ] Compute
+      - [ ] Scaling
+    - [ ] Storage
+      - [ ] Block Storage
+      - [ ] Object Storage
+    - [ ] DataBase
+      - [ ] Autonomos Database - ADW
+      - [ ] DBCS
+      - [ ] MySQL Database Service
+      - [ ] NoSql
+    - [ ] TerraForm
+    - [ ] Security
+    - [ ] Resource Manager
+    - [ ] OCIR
+    - [ ] Functions
+    - [ ] API Gateway
+    - [ ] Kubernetes
+    - [ ] Analytics & Ai
+- [ ] Docker
+    - [ ] docker-compose
+    - [ ] Proxy reverso nginx
+- [ ] Fundamento de Arquitetura de Software
+    - [ ] Sistemas Monolíticos
+    - [ ] Sistemas de Microsserviços
+        - [ ] Api Gateway
+        - [ ] Comunicação entre Microserviços
+- [ ] Comunicação
+    - [ ] Rest
+        - [ ] Nivel de Maturidade
+    - [ ] gRPC
+    - [ ] GraphQl
+- [ ] Golang
+    - [ ] Relembrar pontos básicos
+        - [ ] Basico da linguagem
+        - [ ] Go para web
+        - [ ] Estruturas
+        - [ ] Interfaces
+        - [ ] slices
+    - [ ] Avançando
+        - [ ] Goroutines
+        - [ ] Waiting groups
+        - [ ] Mutex
+        - [ ] Race Conditions
+- [ ] Kubernets
+- [ ] Terraform
+- [ ] Ansible
+- [ ] React
+- [ ] WebPack
